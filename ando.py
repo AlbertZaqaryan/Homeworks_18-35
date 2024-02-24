@@ -1,0 +1,1 @@
+print('My name is Ando, my job is backend developer')
